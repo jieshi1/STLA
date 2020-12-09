@@ -1,3 +1,6 @@
+//Jie Shi
+//CIS 1202 502
+//12/6/2020
 #include <iostream>
 #include <cctype>
 
